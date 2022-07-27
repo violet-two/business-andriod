@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">business</string>
+    <string name="title">我是商家</string>
+    <string name="storeName">武商仙桃MALL-英树店</string>
+    <string name="account">登录账号</string>
+    <string name="change">切换店铺</string>
+    
+    
+    <string name="allNum">2068</string>
+    <string name="shockUpNum">756</string>
+    <string name="warehouseNum">141</string>
+    <string name="signedForNum">16481</string>
+    <string name="all">全部</string>
+    <string name="shockUp">备货中</string>
+    <string name="warehouse">已出库</string>
+    <string name="signedFor">已签收</string>
+    
+    <string name="goods">商品</string>
+    <string name="releaseGoods">发布商品</string>
+    <string name="manageGoods">管理商品</string>
+
+    <string name="order">订单</string>
+    <string name="goodsOrder">商品订单</string>
+    <string name="salesManagement">售后管理</string>
+    <string name="reimburseManagement">报销管理</string>
+    
+    <string name="shortVideo">短视频</string>
+    <string name="sendShortVideo">发短视频</string>
+    <string name="shortVideoManage">短视频管理</string>
+    
+    <string name="workbench">工作台</string>
+    <string name="message">\t消息</string>
+    <string name="marketing">\t营销</string>
+
+</resources>
